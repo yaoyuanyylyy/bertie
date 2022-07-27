@@ -1,2 +1,2 @@
 # bertie
-Programing Erlang test 25.1
+Programing Erlang: example test 25.1
